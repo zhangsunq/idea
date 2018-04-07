@@ -25,7 +25,7 @@ import java.util.*;
 
 public class JD {
     public static void main(String[] args) {
-        Scanner sc =new Scanner(System.in);
+        Scanner sc =new Scanner(System.in);//fgfghfgh
         int n=sc.nextInt();
         int m=sc.nextInt();
         int[] arr1=new int[n];
