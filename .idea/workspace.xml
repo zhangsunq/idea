@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ca6c3c7-575b-4319-9156-c8241a04e45e" name="Default" comment="just try">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Ali.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Daozhizifuchuan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/DeathGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Dgui.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Eeer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/HaoweilaiS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JDFormatJinzhi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JDdp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JDnumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JDtest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JDtttest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/JTGzaoqi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Kolasi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Linn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/MTwangge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/MaxHuiwen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/MaxJyueshu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/NetEaseHuiwen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/NetEaseTiaoshiban.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/NetEasyHechangtuan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/NetEasyTT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/NetEasychangge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/Wbd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/ZH.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/dp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/dpStone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/five.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/fra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/maxZixulie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/twoSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/yiba.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/src/main/java/ziC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../wwwyyy/wwwyyy.iml" />
-    </list>
+    <list default="true" id="9ca6c3c7-575b-4319-9156-c8241a04e45e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../wwwyyy/out/" />
     <ignored path="$PROJECT_DIR$/../wwwyyy/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -511,6 +469,14 @@
       <option name="presentableId" value="Default" />
       <updated>1503753868361</updated>
     </task>
+    <task id="LOCAL-00001" summary="just try">
+      <created>1523104888973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523104888973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -518,7 +484,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28854626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.030837005" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -529,13 +495,13 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.49380806" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.49545455" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24648649" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.50619197" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.50454545" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
