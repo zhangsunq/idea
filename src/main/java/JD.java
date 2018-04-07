@@ -26,7 +26,7 @@ import java.util.*;
 public class JD {// this is from zhangsunqiang!!!
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);//fgfghfgh
-        int n=sc.nextInt();
+        int n=sc.nextInt();//zijizai bendi xiugai l yixie
         int m=sc.nextInt();
         int[] arr1=new int[n];
         int[] arr2=new int[m];
