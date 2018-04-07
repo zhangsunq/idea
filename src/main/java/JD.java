@@ -35,7 +35,7 @@ public class JD {
         for (int i=0;i<n;i++){
             arr1[i]=sc.nextInt();
             if(!set.contains(arr1[i])){
-                list.add(arr1[i]);
+                list.add(arr1[i]);//just tyr yi tyr!!!!
                 set.add(arr1[i]);
             }
         }
