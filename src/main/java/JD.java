@@ -39,6 +39,7 @@ public class JD {// this is from zhangsunqiang!!!
                 set.add(arr1[i]);
             }
         }
+ 
         for (int j=0;j<m;j++){
             arr2[j]=sc.nextInt();
             if(!set.contains(arr2[j])){
@@ -46,6 +47,7 @@ public class JD {// this is from zhangsunqiang!!!
                 set.add(arr2[j]);
             }
         }
+     我就是试一试看你们到底怎么样！！！！
         int[] qq=new int[set.size()];
         for (int i=0;i<qq.length;i++){
             qq[i]=list.get(i);
