@@ -24,7 +24,7 @@
 import java.util.*;
 
 public class JD {// this is from zhangsunqiang!!!
-    public static void main(String[] args) {
+    public static void main(String[] args) {//wo jiu shi lai wan wan de  bie dang zhen !!!
         Scanner sc =new Scanner(System.in);//fgfghfg
         int n=sc.nextInt();//zijizai bendi xiugai l yixie
         int m=sc.nextInt();
